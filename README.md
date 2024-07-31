@@ -22,7 +22,7 @@ The dataset for this project was provided in an Excel file containing sales data
 - **Sales Strategy**: Focus on promoting top-performing product categories to increase revenue.
 
 ## Files
-- **Data & Dashboard**: `gardening_products_sales_dashboard.xlsx` - Sample data used in the project and the actual dashboard file is together.
+- **Data & Dashboard**: [`gardening_products_sales_dashboard.xlsx`](https://github.com/phillipkay53/Faucet-Garden-Supplies-Sales-Dashboard/raw/main/Visualizations/gardening_products_sales_dashboard.xlsx) - Sample data used in the project and the actual dashboard file is together.
 - **Visualizations**: Screenshots of the Excel dashboard.
 - **Doc/Faucet Garden Supplies Report.pdf**: Detailed project report.
 
