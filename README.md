@@ -24,7 +24,7 @@ The dataset for this project was provided in an Excel file containing sales data
 ## Files
 - **Data & Dashboard**: `gardening_products_sales_dashboard.xlsx` - Sample data used in the project and the actual dashboard file is together.
 - **Visualizations**: Screenshots of the Excel dashboard.
-- **Docs/Garden Supplies Sales Dashboard Report.pdf**: Detailed project report.
+- **Doc/Faucet Garden Supplies Report.pdf**: Detailed project report.
 
 ## How to Use
 1. Clone the repository: `git clone https://github.com/phillipkay53/Faucet-Garden-Supplies-Sales-Dashboard.git`
